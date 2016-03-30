@@ -8,7 +8,7 @@ mysql-vagrant is a quick way to run mysql locally for development without an ssh
 
 ### Connect to mysql:
 
-- host: 33.33.33.1
+- host: 192.168.33.69
 - username: root
 - password: root
 
